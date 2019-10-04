@@ -4,4 +4,4 @@ This repo contains 4 methods with acending performance on MINST handwriting digi
 - KNN
 - CNN
 - LeNet
-- CAN
+- CAN with dilated conv
